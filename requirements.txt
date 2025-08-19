@@ -1,0 +1,7 @@
+gradio
+youtube-transcript-api
+langchain
+langchain-ibm
+langchain-community
+ibm-watsonx-ai
+faiss-cpu
